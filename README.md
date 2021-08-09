@@ -1,2 +1,2 @@
 # report2vec
-d
+https://munjungkim.github.io/pr/doc2vec/ 
